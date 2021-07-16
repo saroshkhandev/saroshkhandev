@@ -5,6 +5,8 @@
 - 👨‍💻 &nbsp;Backend Developer
 - ❤️ &nbsp;Loves Anime (Especially Naruto 💞)
 
+#### “Make it work, make it right, make it fast.”
+
 ---
 
  ### ⚒️ &nbsp;Languages and Tools:
