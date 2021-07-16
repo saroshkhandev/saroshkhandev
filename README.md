@@ -40,7 +40,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4JuJZzGcswQszYiKJSnC6i?si=vnT1YijPSVqM87lJ-Tf-gQ&utm_source=whatsapp&dl_branch=1)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sarosh Spotify Playing" width="350" />](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN)
 
 ---
 
