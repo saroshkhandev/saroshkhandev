@@ -46,6 +46,15 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=saroshkhandev&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroshkhandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
  ### Connect with me:
  
  [<img align="left" alt="_sarosh_khan | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
