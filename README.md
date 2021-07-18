@@ -58,13 +58,15 @@
 ---
  ### Connect with me:
  
+ [<img align="left" alt="saroshkhan | WebSite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />][website]
  [<img align="left" alt="_sarosh_khan | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
  [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
+ 
   
 
-
+[website]: https://saroshkhandev.github.io/
 [instagram]: https://instagram.com/_sarosh_khan
 [twitter]: https://twitter.com/SaroshAbdullah3?s=09
 [linkedin]: https://www.linkedin.com/in/sarosh-khan-b8730a169/
