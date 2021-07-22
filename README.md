@@ -5,6 +5,8 @@
 - 👨‍💻 &nbsp;Backend Developer
 - ❤️ &nbsp;Loves Anime (Especially Naruto 💞)
 
+![flat-square](https://komarev.com/ghpvc/?username=saroshkhandev&style=flat-square)
+
 #### “Make it work, make it right, make it fast.”
 
 ---
