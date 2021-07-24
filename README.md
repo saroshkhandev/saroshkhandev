@@ -43,12 +43,6 @@
  
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sarosh Spotify Playing" width="350" />](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN)
-
----
-
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=saroshkhandev&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
