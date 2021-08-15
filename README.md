@@ -7,7 +7,7 @@
 
 ![flat-square](https://komarev.com/ghpvc/?username=saroshkhandev&style=flat-square)
 
-https://saroshkhandev.github.io/thedopeguys/
+https://thedopeguys.herokuapp.com/
 
 #### “Make it work, make it right, make it fast.”
 
