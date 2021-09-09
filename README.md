@@ -46,7 +46,7 @@ https://thedopeguys.herokuapp.com/
  
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=saroshkhandev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=saroshkhandev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
 
 
 ---
