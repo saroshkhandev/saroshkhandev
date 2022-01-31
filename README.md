@@ -2,7 +2,7 @@
 
 ### 🦸 &nbsp;About Me
 
-- 👨‍💻 &nbsp;Backend Developer
+- 👨‍💻 &nbsp;Full Stack Developer
 - ❤️ &nbsp;Loves Anime (Especially Naruto 💞)
 
 ![flat-square](https://komarev.com/ghpvc/?username=saroshkhandev&style=flat-square)
