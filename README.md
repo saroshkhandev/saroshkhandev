@@ -15,6 +15,12 @@ https://thedopeguys.herokuapp.com/
 
 ---
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31gjwnx4a7c3psgqsjf6prvjpuae)
+
+
+---
+
  ### ⚒️ &nbsp;Languages and Tools:
 
 
