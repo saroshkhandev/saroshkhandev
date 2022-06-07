@@ -1,4 +1,4 @@
-## Hello, I'm Sarosh Khan 👋
+## Hello 👋
 
 ### 🦸 &nbsp;About Me
 
